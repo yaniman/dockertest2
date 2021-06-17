@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dockertest2\\..csproj": {}
+    "C:\\Users\\tayea\\RiderProjects\\dockertrial\\dockertrial\\dockertrial.csproj": {}
   },
   "projects": {
-    "D:\\dockertest2\\..csproj": {
+    "C:\\Users\\tayea\\RiderProjects\\dockertrial\\dockertrial\\dockertrial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dockertest2\\..csproj",
-        "projectName": ".",
-        "projectPath": "D:\\dockertest2\\..csproj",
+        "projectUniqueName": "C:\\Users\\tayea\\RiderProjects\\dockertrial\\dockertrial\\dockertrial.csproj",
+        "projectName": "dockertrial",
+        "projectPath": "C:\\Users\\tayea\\RiderProjects\\dockertrial\\dockertrial\\dockertrial.csproj",
         "packagesPath": "C:\\Users\\tayea\\.nuget\\packages\\",
-        "outputPath": "D:\\dockertest2\\obj\\",
+        "outputPath": "C:\\Users\\tayea\\RiderProjects\\dockertrial\\dockertrial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tayea\\AppData\\Roaming\\NuGet\\NuGet.Config"
